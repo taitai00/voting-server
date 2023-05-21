@@ -7,7 +7,7 @@ const userRoutes = require("./routes/user");
 const cors = require("cors");
 const e = require("express");
 
-// express app
+// express app a
 const app = express();
 app.use(cors());
 
